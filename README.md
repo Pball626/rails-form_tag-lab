@@ -22,7 +22,7 @@ redirect _back_ to the `new` view template (commonly, a `create` action would
 redirect to `index`), and print out the form params to the screen.  Below are a
 few items to keep in mind:
 
-* Draw a `new` and `create` route for the `students` resource
+<!-- * Draw a `new` and `create` route for the `students` resource -->
 
 * Print out the student value to the view template page
 
